@@ -1,0 +1,6 @@
+{
+  "name": "KIDIWORLD",
+  "description": "Plateforme artistique de découverte et d'incubation pour jeunes talents de 12 à 18 ans avec défis créatifs, dessinateurs, compositeurs et coach créatif IA, en partenariat avec LinkYourArt.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
